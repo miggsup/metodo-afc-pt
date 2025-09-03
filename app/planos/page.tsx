@@ -13,7 +13,7 @@ export default function PlanosPage() {
     {
       name: "Plano Básico",
       price: "R$ 9,90",
-      checkoutUrl: "https://go.disruptybr.com.br/my7njr278f",
+      checkoutUrl: "https://pay.sunize.com.br/ZlRsYqLn",
       features: [
         "Protocolo básico do Método DTM",
         "Guia de exercícios fundamentais",
@@ -25,7 +25,7 @@ export default function PlanosPage() {
     {
       name: "Plano Intermediário",
       price: "R$ 17,00",
-      checkoutUrl: "https://go.disruptybr.com.br/uaj3e",
+      checkoutUrl: "https://pay.sunize.com.br/oXLnxeaz",
       isPopular: true,
       features: [
         "Protocolo intermediário do Método DTM",
