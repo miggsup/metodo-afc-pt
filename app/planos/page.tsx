@@ -13,7 +13,7 @@ export default function PlanosPage() {
     {
       name: "Plano Básico",
       price: "R$ 9,90",
-      checkoutUrl: "https://pay.sunize.com.br/ZlRsYqLn",
+      checkoutUrl: "https://pay.wiapy.com/5TEQGUD4h3",
       features: [
         "Protocolo básico do Método DTM",
         "Guia de exercícios fundamentais",
@@ -25,7 +25,7 @@ export default function PlanosPage() {
     {
       name: "Plano Intermediário",
       price: "R$ 17,00",
-      checkoutUrl: "https://pay.sunize.com.br/oXLnxeaz",
+      checkoutUrl: "https://pay.wiapy.com/1ZBUxHQ98",
       isPopular: true,
       features: [
         "Protocolo intermediário do Método DTM",
@@ -110,7 +110,7 @@ export default function PlanosPage() {
                     COMEÇAR AGORA
                   </motion.button>
 
-                  <p className="text-center text-gray-500 text-xs mt-3">Pagamento seguro processado pela Sunize</p>
+                  <p className="text-center text-gray-500 text-xs mt-3">Pagamento seguro processado pela Wiapy</p>
                 </div>
               </div>
             </motion.div>
